@@ -1,8 +1,7 @@
 # CITS1402-Project
-for recording
 
 This repository is for recording of my assignment.
-
+2017/10/12
 
 -----------------------------------------------
 
