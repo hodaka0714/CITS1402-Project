@@ -1,5 +1,7 @@
 # CITS1402-Project
 
+Connection of MySQL and php (a bit of Javascript)
+
 This repository is for recording of my assignment.
 2017/10/12
 
